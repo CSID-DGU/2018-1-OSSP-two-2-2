@@ -1,0 +1,843 @@
+
+#prof
+	id = 1
+	name = 신연순
+#end
+
+#prof
+	id = 2
+	name = 문봉교
+#end
+
+#prof
+	id = 3
+	name = 최성연
+#end
+
+#prof
+	id = 4
+	name = 주태우
+#end
+
+#prof
+	id = 5
+	name = 주해종
+#end
+
+#prof
+	id = 6
+	name = 이명숙
+#end
+
+#prof
+	id = 7
+	name = 최은만
+#end
+
+#prof
+	id = 8
+	name = 오세만
+#end
+
+#prof
+	id = 9
+	name = 주종화
+#end
+
+#prof
+	id = 10
+	name = 윤성림
+#end
+
+#prof
+	id = 11
+	name = 김경자
+#end
+
+#prof
+	id = 12
+	name = 엄진영
+#end
+
+#prof
+	id = 13
+	name = 장은실
+#end
+
+#prof
+	id = 14
+	name = 송양의
+#end
+
+#prof
+	id = 15
+	name = 김시명
+#end
+
+#prof
+	id = 16
+	name = 이호정
+#end
+
+#prof
+	id = 17
+	name = 홍성옥
+#end
+
+#prof
+	id = 18
+	name = 홍정모
+#end
+
+#prof
+	id = 19
+	name = 김가영
+#end
+
+#prof
+	id = 20
+	name = 장태무
+#end
+
+#prof
+	id = 21
+	name = 정준호
+#end
+
+#prof
+	id = 22
+	name = 정진우
+#end
+
+#prof
+	id = 23
+	name = 손윤식
+#end
+
+#prof
+	id = 24
+	name = 이강우
+#end
+
+#prof
+	id = 25
+	name = 박미화
+#end
+
+#prof
+	id = 26
+	name = 김동호
+#end
+
+#prof
+	id = 27
+	name = 이용규
+#end
+
+#course
+	id = 1
+	name = 창의적공학설계
+#end
+
+#course
+	id = 2
+	name = 계산적사고법
+#end
+
+#course
+	id = 3
+	name = 이산구조
+#end
+
+#course
+	id = 4
+	name = 자료구조와실습
+#end
+
+#course
+	id = 5
+	name = 객체지향언어와실습
+#end
+
+#course
+	id = 6
+	name = 이산수학
+#end
+
+#course
+	id = 7
+	name = 프로그래밍기초와실습
+#end
+
+#course
+	id = 8
+	name = 기초프로그래밍
+#end
+
+#course
+	id = 9
+	name = 컴퓨터구성
+#end
+
+#course
+	id = 10
+	name = 심화프로그래밍
+#end
+
+#course
+	id = 11
+	name = 컴퓨터알고리즘과실습
+#end
+
+#course
+	id = 12
+	name = 형식언어
+#end
+
+#course
+	id = 13
+	name = 운영체제
+#end
+
+#course
+	id = 14
+	name = 데이터베이스시스템
+#end
+
+#course
+	id = 15
+	name = 컴퓨터네트워킹
+#end
+
+#course
+	id = 16
+	name = 컴퓨터보안
+#end
+
+#course
+	id = 17
+	name = 객체지향설계와패턴
+#end
+
+#course
+	id = 18
+	name = 모바일컴퓨팅
+#end
+
+#course
+	id = 19
+	name = 컴퓨터그래픽스입문
+#end
+
+#course
+	id = 20
+	name = S/W품질관리및테스팅
+#end
+
+#course
+	id = 21
+	name = 컴퓨터공학종합설계1
+#end
+
+#course
+	id = 22
+	name = 컴퓨터공학종합설계2
+#end
+
+#course
+	id = 23
+	name = 인간컴퓨터상호작용시스템
+#end
+
+#course
+	id = 24
+	name = 공개SW프로젝트
+#end
+
+#course
+	id = 25
+	name = 공업교육론
+#end
+
+#course
+	id = 26
+	name = 컴퓨터교육론
+#end
+
+#course
+	id = 27
+	name = 컴퓨터활용과실습
+#end
+
+#room
+	name = S401-3142
+	lab = false
+	size = 40
+#end
+
+#room
+	name = S401-6144
+	lab = false
+	size = 86
+#end
+
+#room
+	name = S401-4147
+	lab = false
+	size = 80
+#end
+
+#room
+	name = S401-5143
+	lab = false
+	size = 60
+#end
+
+#room
+	name = S401-5145
+	lab = false
+	size = 72
+#end
+
+
+#room
+	name = S401-10144
+	lab = false
+	size = 40
+#end
+
+
+
+#room
+	name = J407-105
+	lab = false
+	size = 80
+#end
+#room
+	name = S401-4142
+	lab = false
+	size = 37
+#end
+#room
+	name = J408-321
+	lab = false
+	size = 88
+#end
+
+#room
+	name = J407-B101
+	lab = false
+	size = 70
+#end
+
+#room
+	name = H501-203
+	lab = false
+	size = 120
+#end
+
+#room
+	name = S401-6119
+	lab = true
+	size = 50
+#end
+
+#room
+	name = S401-3115
+	lab = true
+	size = 45
+#end
+
+#room
+	name = W405-318
+	lab = true
+	size = 50
+#end
+#room
+	name = S401-3182
+	lab = true
+	size = 36
+#end
+
+#room
+	name = S401-3183
+	lab = true
+	size = 36
+#end
+
+
+
+#room
+	name = J408-221
+	lab = true
+	size = 50
+#end
+
+#class
+	professor = 1
+	course = 1
+	duration = 3
+	lab = true
+#end
+
+#class
+	professor = 2
+	course = 2
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 3
+	course = 2
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 4
+	course = 3
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 4
+	course = 3
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 5
+	course = 4
+	duration = 3
+	lab_H = true
+	division = 1
+#end
+
+#class
+	professor = 6
+	course = 4
+	duration = 3
+	lab_H = true
+	division = 2
+#end
+
+#class
+	professor = 7
+	course = 4
+	duration = 3
+	lab_H = true
+	division = 3
+#end
+
+#class
+	professor = 8
+	course = 5
+	duration = 3
+	lab_H = true
+	division = 1
+#end
+
+#class
+	professor = 8
+	course = 5
+	duration = 3
+	lab_H = true
+	division = 2
+#end
+
+#class
+	professor = 9
+	course = 5
+	duration = 3
+	lab_H = true
+	division = 3
+#end
+
+#class
+	professor = 10
+	course = 5
+	duration = 3
+	lab_H = true
+	division = 4
+#end
+
+#class
+	professor = 4
+	course = 6
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 11
+	course = 6
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 12
+	course = 6
+	duration = 3
+	division = 3
+#end
+
+#class
+	professor = 11
+	course = 6
+	duration = 3
+	division = 4
+#end
+
+#class
+	professor = 13
+	course = 6
+	duration = 3
+	division = 5
+#end
+
+#class
+	professor = 6
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 1
+#end
+
+#class
+	professor = 14
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 2
+#end
+
+#class
+	professor = 15
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 3
+#end
+
+#class
+	professor = 16
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 4
+#end
+
+#class
+	professor = 15
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 5
+#end
+
+#class
+	professor = 10
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 6
+#end
+
+#class
+	professor = 13
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 7
+#end
+
+#class
+	professor = 13
+	course = 7
+	duration = 3
+	lab_H = true
+	division = 8
+#end
+
+#class
+	professor = 12
+	course = 7
+	duration = 3
+	lab = true
+	division = 9
+#end
+
+#class
+	professor = 17
+	course = 7
+	duration = 3
+	lab = true
+	division = 10
+#end
+
+#class
+	professor = 12
+	course = 7
+	duration = 3
+	lab = true
+	division = 11
+#end
+
+#class
+	professor = 18
+	course = 8
+	duration = 3
+	lab = true
+	division = 1
+#end
+
+#class
+	professor = 19
+	course = 8
+	duration = 3
+	lab = true
+	division = 2
+#end
+
+#class
+	professor = 19
+	course = 8
+	duration = 3
+	lab = true
+	division = 3
+#end
+
+#class
+	professor = 20
+	course = 9
+	duration = 3
+	lab = true
+	division = 1
+#end
+
+#class
+	professor = 20
+	course = 9
+	duration = 3
+	lab = true
+	division = 2
+#end
+
+#class
+	professor = 21
+	course = 10
+	duration = 3
+	lab = true
+	division = 1
+#end
+
+#class
+	professor = 21
+	course = 10
+	duration = 3
+	lab = true
+	division = 2
+#end
+
+#class
+	professor = 22
+	course = 11
+	duration = 3
+	lab = true
+	division = 1
+#end
+
+#class
+	professor = 9
+	course = 11
+	duration = 3
+	lab = true
+	division = 2
+#end
+
+#class
+	professor = 9
+	course = 11
+	duration = 3
+	lab = true
+	division = 3
+#end
+
+#class
+	professor = 23
+	course = 12
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 23
+	course = 12
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 23
+	course = 12
+	duration = 3
+	division = 3
+#end
+
+#class
+	professor = 24
+	course = 13
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 21
+	course = 13
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 25
+	course = 14
+	duration = 3
+	division = 1
+#end
+
+#class
+	professor = 14
+	course = 14
+	duration = 3
+	division = 2
+#end
+
+#class
+	professor = 26
+	course = 15
+	duration = 3
+#end
+
+#class
+	professor = 2
+	course = 16
+	duration = 3
+#end
+
+#class
+	professor = 7
+	course = 17
+	duration = 3
+	lab = true
+#end
+
+#class
+	professor = 2
+	course = 18
+	duration = 3
+#end
+
+#class
+	professor = 18
+	course = 19
+	duration = 3
+	lab = true
+#end
+
+#class
+	professor = 7
+	course = 20
+	duration = 3
+	lab = true
+#end
+
+#class
+	professor = 22
+	course = 21
+	duration = 3
+	lab = true
+	division = 1
+	fixed = F-13
+#end
+
+#class
+	professor = 27
+	course = 21
+	duration = 3
+	lab = true
+	division = 2
+	fixed = F-13
+#end
+
+#class
+	professor = 23
+	course = 21
+	duration = 3
+	lab = true
+	division = 3
+	fixed = F-13
+#end
+
+#class
+	professor = 1
+	course = 21
+	duration = 3
+	lab = true
+	division = 4
+	fixed = F-13
+#end
+
+#class
+	professor = 26
+	course = 22
+	duration = 3
+	lab = true
+	fixed = F-13
+#end
+
+#class
+	professor = 22
+	course = 23
+	duration = 3
+	lab = true
+#end
+
+#class
+	professor = 26
+	course = 24
+	duration = 3
+	lab = true
+	division = 1
+#end
+
+#class
+	professor = 23
+	course = 24
+	duration = 3
+	lab = true
+	division = 2
+#end
+
+#class
+	professor = 13
+	course = 25
+	duration = 3
+#end
+
+#class
+	professor = 19
+	course = 26
+	duration = 3
+#end
+
+#class
+	professor = 16
+	course = 27
+	duration = 2
+	lab = true
+#end
+
