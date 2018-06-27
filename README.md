@@ -17,6 +17,8 @@
 교수님별로 시간표의 색상을 변경하였습니다.
 
 #프로그램 실행 방법
-1. Convert Data버튼 클릭 -> 수업정보, 강의실정보 csv선택
+1. Convert Data버튼 클릭 -> 수업정보, 강의실정보 csv선택    
 2. Load Data버튼 클릭-> output.txt선택
 3. Start버튼 클릭
+
+![kakaotalk_20180627_134455635](https://user-images.githubusercontent.com/37431124/41953430-b7085b2a-7a10-11e8-843f-5ff18ae70be0.jpg)
