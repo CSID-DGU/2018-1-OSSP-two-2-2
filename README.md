@@ -17,7 +17,7 @@ INTRODUCE
 자세한 사용방법은 동영상을 참고하시거나 메일을 주시면 보다 자세하게 설명 드리겠습니다. (sejin8544@gmail.com)
 
 마지막으로 기존 오픈소스의 UI를 개선하였습니다.                                                                                               
-즉 사용자의 편의를 위해 데이터 변환 기능(csv->txt)을 추가하였으며                                                                               
+즉, 사용자의 편의를 위해 데이터 변환 기능(csv->txt)을 추가하였으며                                                                               
 스크롤바의 작동을 저희 프로그램의 맞춰서 수정하였고  
 교수님별로 시간표의 색상을 변경하였습니다.
 
@@ -39,7 +39,7 @@ RESULT
 
 TEAM
 -----------------
-박세진  Leo8544@naver.com 
-박지수  qkrwltn8976@naver.com 
-지선아  jisuna314@gmail.com 
-정경원  tab0228@naver.com 
+박세진  Leo8544@naver.com
+박지수  qkrwltn8976@naver.com
+지선아  jisuna314@gmail.com
+정경원  tab0228@naver.com   
