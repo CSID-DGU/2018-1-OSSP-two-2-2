@@ -460,7 +460,7 @@
 	professor = 10
 	course = 5
 	duration = 3
-	lab_H = true
+	lab = true
 	division = 4
 #end
 
@@ -761,7 +761,7 @@
 	duration = 3
 	lab = true
 	division = 1
-	fixed = F-13
+	fixed = t-15
 #end
 
 #class
@@ -770,7 +770,7 @@
 	duration = 3
 	lab = true
 	division = 2
-	fixed = F-13
+	fixed = t-15
 #end
 
 #class
@@ -779,7 +779,7 @@
 	duration = 3
 	lab = true
 	division = 3
-	fixed = F-13
+	fixed = t-15
 #end
 
 #class
@@ -788,7 +788,7 @@
 	duration = 3
 	lab = true
 	division = 4
-	fixed = F-13
+	fixed = t-15
 #end
 
 #class
@@ -796,7 +796,7 @@
 	course = 22
 	duration = 3
 	lab = true
-	fixed = F-13
+	fixed = t-15
 #end
 
 #class
