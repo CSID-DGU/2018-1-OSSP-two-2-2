@@ -21,7 +21,9 @@
 2. Load Data버튼 클릭-> output.txt선택
 3. Start버튼 클릭
 
-![kakaotalk_20180627_134455635](https://user-images.githubusercontent.com/37431124/41953430-b7085b2a-7a10-11e8-843f-5ff18ae70be0.jpg)
+
+![kakaotalk_20180627_135909772](https://user-images.githubusercontent.com/37431124/41953772-7cecd306-7a12-11e8-9046-de37c0aa1fe7.png)
+
 
 #결과
-![kakaotalk_20180627_135252689](https://user-images.githubusercontent.com/37431124/41953581-7415bb22-7a11-11e8-88d4-8a7c8013412d.jpg)
+![kakaotalk_20180627_135909940](https://user-images.githubusercontent.com/37431124/41953792-9afe7e44-7a12-11e8-8498-65c8042c70a9.png)
