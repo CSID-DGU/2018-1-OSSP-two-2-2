@@ -22,3 +22,6 @@
 3. Start버튼 클릭
 
 ![kakaotalk_20180627_134455635](https://user-images.githubusercontent.com/37431124/41953430-b7085b2a-7a10-11e8-843f-5ff18ae70be0.jpg)
+
+#결과
+![kakaotalk_20180627_135252689](https://user-images.githubusercontent.com/37431124/41953581-7415bb22-7a11-11e8-88d4-8a7c8013412d.jpg)
