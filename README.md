@@ -39,7 +39,7 @@ RESULT
 
 TEAM
 -----------------
-박세진  Leo8544@naver.com
-박지수  qkrwltn8976@naver.com
-지선아  jisuna314@gmail.com
-정경원  tab0228@naver.com   
+*박세진  Leo8544@naver.com
+*박지수  qkrwltn8976@naver.com
+*지선아  jisuna314@gmail.com
+*정경원  tab0228@naver.com   
